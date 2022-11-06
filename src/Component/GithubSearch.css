@@ -1,0 +1,15 @@
+.search{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+.card{
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+    background-color: rebeccapurple;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
